@@ -1,0 +1,19 @@
+# Dependency directories
+node_modules/
+
+# Build artifacts
+dist/
+
+# Configuration files
+.env
+
+# Log files
+*.log
+
+# IDE files
+.vscode/
+
+# TypeScript files
+*.tsbuildinfo
+
+
